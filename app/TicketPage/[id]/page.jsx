@@ -1,7 +1,8 @@
+import TicketForm from "@/app/(components)/TicketForm";
 
 
 const TicketPage = ({ parms }) => {
-  return <div>TicketPageId </div>;
+  return <TicketForm/> 
 };
 
 export default TicketPage;

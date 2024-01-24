@@ -1,5 +1,7 @@
+
+
 const TicketPage = ({ parms }) => {
-  return <div>TicketPageId {parms.id}</div>;
+  return <div>TicketPageId </div>;
 };
 
 export default TicketPage;
